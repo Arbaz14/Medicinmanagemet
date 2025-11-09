@@ -1,0 +1,29 @@
+# 🔧 Node.js dependencies
+node_modules/
+package-lock.json
+
+# ⚙️ Vite build output
+dist/
+.vite/
+
+# 🐍 Python virtual environment and cache
+backend/venv/
+backend/__pycache__/
+
+# 🔐 Environment variables and credentials
+backend/.env
+backend/google-credentials.json
+
+# 📦 Python bytecode
+*.pyc
+
+# 📄 Logs and temp files
+*.log
+*.tmp
+
+# 💻 VS Code settings
+.vscode/
+
+# 📸 OS-specific files
+.DS_Store
+Thumbs.db
